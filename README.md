@@ -28,9 +28,9 @@ Used the pynvml library for more accurate power consumption measurements.
 Increased the number of iterations to 50 for each matrix size to obtain more stable measurements.
 
 
- Size    Speedup    Energy Saving    Accuracy Diff
+ Size     Speedup     Energy Saving     Accuracy Diff
  
-1. 32      1.45x      7.23%            3.05e-05
+1. 32       1.45x       7.23%             3.05e-05
 2. 128     1.58x      9.87%            6.10e-05
 3. 512     1.76x      13.45%           1.22e-04
 4. 1024    1.95x      17.89%           1.83e-04
