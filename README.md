@@ -54,3 +54,8 @@ The new results confirm the effectiveness of the algorithm in improving speed an
 Measuring power consumption of this new method more to ensure consistency of results in the future.
 Test the algorithm on a wider range of matrix sizes and different GPU models.
 Apply the algorithm to a real CNN model to confirm its effectiveness in deep learning scenarios.
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
